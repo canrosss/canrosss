@@ -11,8 +11,21 @@
 
 ---
 
+### 🔧 En lo que estoy trabajando
+
+- **[TicTacToe](https://github.com/canrosss/TicTacToe)** — Juego de consola en Java con arquitectura modular (model, ai, ui, score), persistencia de resultados en JSON y documentación técnica con diagramas interactivos.
+
+---
+
 ### 🌱 Actualmente aprendiendo
-- **Java** (otra vez) 📚 ¿Por qué no?
+- **Java** — OOP, herencia, manejo de archivos con Gson, debugging y refactoring.
+- **Git & GitHub** — Branching, merge, resolución de conflictos, Pull Requests.
+- **Arquitectura de software** — Diagramas de clases, paquetes, secuencia y flujo.
+
+---
+
+### 🛠 Stack actual
+`Java` · `IntelliJ IDEA` · `Git` · `Gson` · `Mermaid` · `HTML/CSS/JS`
 
 ---
 
@@ -28,7 +41,6 @@
 ---
 
 ¡Gracias por pasar! 😊
-
 
 <!---
 canrosss/canrosss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
